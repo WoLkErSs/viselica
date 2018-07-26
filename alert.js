@@ -19,7 +19,7 @@ while( arr.join("") !== answer.join("")){
 
 	} else{
 		answer = arr;
-		alert('You lose hahahahahahah')
+		alert('You lose hahahahahahahaha')
 	}
 }
 console.log(answer);
